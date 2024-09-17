@@ -1,0 +1,15 @@
+[package]
+name = "safetruct"
+version = "0.1.0"
+edition = "2021"
+authors = ["ElectroMutex"]
+description = "droper"
+license = "MIT"
+documentation = "https://docs.rs/safetruct/latest/safetruct/"
+homepage = "https://github.com/SkillfulElectro/safetruct.git"
+repository = "https://github.com/SkillfulElectro/safetruct.git"
+readme = "README.md"
+keywords = ["wrapper" , "safe"]
+categories = ["api-bindings"]
+
+[dependencies]
